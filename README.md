@@ -2,7 +2,13 @@
 
 ¡Hola! Soy **QA Jr.** con experiencia en **pruebas manuales y automatizadas**, además de conocimientos como **programador junior**. He trabajado en proyectos de frontend, backend y automatización de pruebas utilizando herramientas como **Selenium**, **unittest**, **PyTest**, y frameworks como **Flask** y **Tkinter**. También tengo experiencia en metodologías ágiles como **Kanban** y **Scrum**.
 
-![Banner](https://drive.google.com/file/d/1kLdG1FWdUChoPdPM41RM-7usSVDRA9Q9/view?usp=sharing) <!-- Reemplaza esta URL con tu imagen -->
+<a href="https://drive.google.com/uc?export=view&id=1ryIOIe62-kTBh-bOg8dUsEJdEvSKgJhZ">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1ryIOIe62-kTBh-bOg8dUsEJdEvSKgJhZ"
+    style="width: 170px; max-width: 100%; height: auto; border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"
+    title="Haz clic para ver en grande"
+  />
+</a>
 
 ## 🧰 Tecnologías y herramientas
 
